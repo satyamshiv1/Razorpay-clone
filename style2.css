@@ -1,0 +1,6 @@
+.st:hover{
+    background-image: url(./Images/features-wave.svg);
+    background-position: 100% 90%;
+    background-repeat: no-repeat;
+    box-shadow: 1px 1px 10px grey;
+}
